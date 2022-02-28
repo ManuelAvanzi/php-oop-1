@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.205);
+}
+.container{
+    width: 80%;
+    border:1px solid white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+}
+.poster-container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width:200px;
+    padding: 20px;
+}
+
+.titler{
+    color:rgba(13, 153, 31, 0.726);
+}
